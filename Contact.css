@@ -1,0 +1,19 @@
+.sDes{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    position: relative;
+    top:50px
+}
+
+body{
+    background-color:rgb(100, 138, 24);
+}
+
+.us {
+    padding: 20px;
+    position: relative;
+    top:300px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
